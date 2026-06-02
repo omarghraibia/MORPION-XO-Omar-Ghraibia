@@ -1,7 +1,6 @@
 {
   "name": "morpion-xo",
   "version": "1.0.0",
-  "description": "Morpion XO - Jeu de Tic-Tac-Toe par Omar Ghraibia",
   "scripts": {
     "start": "serve .",
     "build": "echo 'No build step required'"
