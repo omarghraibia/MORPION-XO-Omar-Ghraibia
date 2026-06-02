@@ -5,7 +5,7 @@
     "start": "serve .",
     "build": "echo 'No build step required'"
   },
-  "keywords": ["morpion", "tic-tac-toe", "game", "flat-dark"],
+  "keywords": ["morpion", "tic-tac-toe", "game"],
   "author": "Omar Ghraibia",
   "license": "MIT"
 }
